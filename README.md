@@ -1,2 +1,3 @@
-# exercise-theater
-Exercício de algorítimos avançados, BDAg 4° Termo.
+# Exercício Python
+
+### Execute o arquivo "main.py"
